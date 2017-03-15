@@ -1,0 +1,6 @@
+framework module Pods_OneShotNation {
+  umbrella header "Pods-OneShotNation-umbrella.h"
+
+  export *
+  module * { export * }
+}
